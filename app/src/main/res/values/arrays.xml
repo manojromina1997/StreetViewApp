@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="place_names">
+
+        <item>Gateway of India,Mumabi</item>
+        <item>Umaid Bhavan,Rajasthan</item>
+        <item>Taj Lake Palace,Rajasthan</item>
+        <item>Ranthambore Fort,Rajasthan</item>
+        <item>Mehrangarh Fort,Rajasthan</item>
+        <item>Qutub Minar,Delhi</item>
+        <item>Taj Mahal,UP</item>
+        <item></item>
+
+        <item>NewYork,USA</item>
+        <item>Barcelona,Spain</item>
+        <item>Vennice,Italy</item>
+
+
+
+    </string-array>
+
+    <string-array name="place_geographical_values">
+
+        <item>18.9226903,72.8341126</item>
+        <item>26.2806493,73.0464978</item>
+        <item>24.5757564,73.6797529</item>
+        <item>26.0222707,76.4543571</item>
+        <item>26.2985511,73.0196751</item>
+        <item>28.5242151,77.1859466</item>
+        <item>27.1742934,78.0422568</item>
+        <item></item>
+
+        <item>40.7797911,-73.9887666</item>
+        <item>41.3809,2.121822</item>
+        <item>45.4546252,11.9707042</item>
+
+    </string-array>
+</resources>

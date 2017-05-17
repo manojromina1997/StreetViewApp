@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StreetView2</string>
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_title">Setting Activity</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_place_name">Select a Place</string>
+    <string name="place_name_key" translatable="false">place_name</string>
+    <string name="place_name_default" translatable="false">New York</string>
+</resources>

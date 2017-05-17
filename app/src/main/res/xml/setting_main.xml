@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+    <ListPreference
+        android:defaultValue="@string/place_name_default"
+        android:entries="@array/place_names"
+        android:entryValues="@array/place_geographical_values"
+        android:key="@string/place_name_key"
+        android:title="@string/settings_place_name" />
+</PreferenceScreen>
